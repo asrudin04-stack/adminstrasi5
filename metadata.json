@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Guru",
+  "description": "Sistem Administrasi Guru (SAG) Platinum dengan Google Apps Script Backend dan Blogger XML Frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
